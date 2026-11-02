@@ -1,0 +1,15 @@
+# Maven build output
+target/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# Java compiled files
+*.class
+
+# OS files
+.DS_Store
+Thumbs.db
+dependency-reduced-pom.xml
